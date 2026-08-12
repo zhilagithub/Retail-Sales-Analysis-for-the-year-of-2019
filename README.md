@@ -1,8 +1,3 @@
-# Retail-Sales-Analysis-for-the-year-of-2019 
+### Question 1: Which month generated the highest sales revenue, and how much revenue was generated?
 
-Dataset from Kaggle
- 
-### Question 1: what was the best month for sales? how much was earned that month ? 
-
-
-### Question 2: what city had the highest number of sales?
+### Question 2: Which city generated the highest sales revenue?
