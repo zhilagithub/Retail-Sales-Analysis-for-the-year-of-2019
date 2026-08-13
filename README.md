@@ -57,19 +57,15 @@ Retail-Sales-Analysis-for-the-year-of-2019/
     ├── README.md
     └── retail_sales_analysis.ipynb
 ```
-
 ## Dataset
 
-The analysis uses 12 monthly retail sales files covering transactions from January through December 2019. The combined raw dataset contains approximately **186,850 records** and includes order ID, product, quantity ordered, price, order date, and purchase address. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+The project uses a publicly available 2019 retail sales dataset from Kaggle, consisting of 12 monthly CSV files covering transactions from January through December 2019.
+
+The combined raw dataset contains approximately **186,850 records** and includes order ID, product, quantity ordered, price, order date, and purchase address.
+
+After combining and cleaning the monthly files, the dataset was used to analyze sales performance across time and geographic markets.
 
 ## Results
 
-## Dataset
-
-The analysis uses 12 monthly retail sales files covering transactions from January through December 2019. The combined raw dataset contains approximately **186,850 records** and includes order ID, product, quantity ordered, price, order date, and purchase address.
-
-## Results
-
-The analysis identified **December as the strongest month for sales**, generating approximately **$4.61 million in revenue**.
-
-At the geographic level, **San Francisco generated the highest sales revenue**, at approximately **$8.25 million**.
+- **December** generated the highest monthly sales revenue at approximately **$4.61 million**.
+- **San Francisco** generated the highest sales revenue among the cities analyzed at approximately **$8.25 million**.
