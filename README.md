@@ -64,6 +64,12 @@ The analysis uses 12 monthly retail sales files covering transactions from Janua
 
 ## Results
 
-The analysis identified **December as the strongest month for sales**, generating approximately **$4.61 million in revenue**. :contentReference[oaicite:2]{index=2}
+## Dataset
 
-At the geographic level, **San Francisco generated the highest sales revenue**, at approximately **$8.25 million**. :contentReference[oaicite:3]{index=3}
+The analysis uses 12 monthly retail sales files covering transactions from January through December 2019. The combined raw dataset contains approximately **186,850 records** and includes order ID, product, quantity ordered, price, order date, and purchase address.
+
+## Results
+
+The analysis identified **December as the strongest month for sales**, generating approximately **$4.61 million in revenue**.
+
+At the geographic level, **San Francisco generated the highest sales revenue**, at approximately **$8.25 million**.
